@@ -1,2 +1,2 @@
 #!/bin/bash
-gred "root" /etc/passwd
+gred root /etc/passwd
